@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.cpp(116): warning C4191: 'type cast': unsafe conversion from 'void *(__cdecl *)(void)' to 'ACE_THR_FUNC'
+          Calling this function through the result pointer may cause your program to fail
+  Generating code
+  0 of 326 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SteamWorks-ChatCommands.vcxproj -> C:\Users\robxp\Desktop\VBox Shared\SteamWorks-ChatCommands.exe
+  SteamWorks-ChatCommands.vcxproj -> C:\Users\robxp\Desktop\VBox Shared\SteamWorks-ChatCommands.pdb (Full PDB)
